@@ -1,6 +1,7 @@
 # Workshop-2.md
 How do you create a class - key word/casing/brackets?
 First letter is UPPER CASE eg. class Person then curly {} 
+If not within the created class it will error.
 
 What is the difference between a variable and a constant?
 A variable can change and constant is permanent 
