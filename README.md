@@ -13,7 +13,7 @@ What does the word 'string' mean?
 the type of variable. An object data type
 
 
-What key work (abreviation) is used to create a function?
+What key work (abbreviation) is used to create a function?
 func
 
 
